@@ -1,0 +1,146 @@
+CDbCriteria
+后盾网
+翻墙网址：http://www.ccdaili.com/
+bitbacket:https://bitbucket.org    746676283@qq.com	c13330290051
+				   tianye123	Tianye123
+
+新数据库地址：
+https://dms-rds.aliyun.com/main.do?token=953b961e-8697-437e-95ae-064ba79cd153
+地址：rds355y2nh13a6a5f420.mysql.rds.aliyuncs.com:3306
+帐号：admin_rw
+密码：Kc-ADwoAsCv3J4
+
+帐号：admin_r
+密码：zIsTp3RRHVin6QjOOzAi
+
+rds355y2nh13a6a5f420.mysql.rds.aliyuncs.com
+帐号：admin_backend
+密码：T7n3S@F3YcUT
+
+只读新后台。
+rr-2ze19565yux177t85.mysql.rds.aliyuncs.com
+yk_admin_applica
+=0yR*bL4I^fHEdc
+
+rds_test1-rm-2zeaxzs81y4zptdz6.mysql.rds.aliyuncs.com:3306
+帐号：db_home
+密码：gxS!+Mb4VS
+
+
+db_internal_system
+internal_user
+7njENhTFhTVg4c
+
+新预发布账号
+rm-2zee36n35rtf9xxz5.mysql.rds.aliyuncs.com
+yinka_pre
+o#h2tPPj*aGU@B=
+
+
+keepass:xiaochenchen
+虚拟机:chenxw xiaochenchen
+root:xiaochenchen
+
+git.newhire.com
+chenxw
+c13330290051
+
+
+git登录
+http://git.oschina.net/
+simonzane@foxmail.com
+
+746676283@qq.com
+c13330290051
+
+7==7?cXw
+
+公司支付宝账户:cqutprint@aliyun.com#chenxw
+登陆密码：hrGeek1k 
+
+阿里云控制台：console_chenxw@yinka
+$Tgu8=e#F#+$aNdx
+
+阿里大鱼：
+https://dayu.aliyun.com/service/sms?spm=0.0.0.0.exZbwP
+cqutprint@aliyun.com
+WCA:5mL5bB
+
+
+极光推送:
+cqutprint@aliyun.com
+653945cn
+
+
+pay.weixin.qq.com/
+微信支付网页登录账号：fanlili@1292670201
+      密码：yxyRR5V2
+
+微信支付手机版账号：fanlili@1297473901
+      密码：yxyRR5V2
+
+邮箱
+chenxiwang@cqporun.com 
+c13330290051*
+
+服务器:	182.92.208.149:3355  zhangjj  azjo'uQlcCm;h0=4
+        59.110.53.226:3355
+   chenxw   ONBU*z"TYgxnj#86
+	59.110.54.123:3355   chenxw   1WzW0k\3Snf|T!+"
+	101.200.136.31:3355  chenxw   jPc^Fz#3RET"=|23
+	101.200.182.223:3355  chenxw   q$|W.X?H=#7Efw$=
+	101.200.146.131:8856 administrator  jG|ks5xB?iSJDqjI
+        123.56.224.32:8856  administrator  ol'T3HXdw94MyYeZ
+	101.200.128.5:8856 administrator  
+.~SsH6NjRu#!iQlc
+	123.56.147.11:8856 administrator
+ dR`rm9U#^JO~y#s;
+	101.200.200.14:8856  
+administrator
+  :nRpP3onQ#W'OH~X
+
+	101.200.122.180:8856  administrator  
+bKzdp8?fFM$Tys'U
+	101.200.149.104:3355  chenxw  9uQ+2~PJOA'W4IMm
+	123.56.94.175:3355   chenxw   !cGP?U38zjg!L!Tl
+        47.93.127.14:3355  chenxw  
+YxG?P%Xs~jCMUPG#
+        39.107.60.186  root YxG?P%Xs~j5sCMUPG#
+
+	docker exec -it newhigh-print-crontab_service_1 bash
+	
+
+微信公众号:cqutprint@aliyun.com
+2Xm7GzdT
+
+公积金账号：801426625602  用户名：xiwangchen  密码：c13330290051  
+
+
+高德地图用户名和密码：cqutprint@aliyun.com    653945cn  
+
+
+莫名短信：13330290051	c13330290051
+创瑞短信：cqutprint 112233
+云片短信: 13330290051	c13330290051
+
+RAP:13330290051   c13330290051
+
+工资条密码:1234
+
+收款人全称：重庆颇闰科技有限公司
+收款人账号：50050111380000000002
+收款行名称：中国建设银行股份有限公司重庆巴南支行李家沱分理处
+纳税识别号：91500113084678045H
+电话：023-61201651
+地址：重庆市巴南区红光大道69号重庆理工大学大学生创业孵化基地5号
+
+收款人全称：重庆颇闰科技有限公司
+收款人账号：1039080120440000129
+收款行名称：重庆农村商业银行股份有限公司巴南支行花溪分理处
+纳税识别号：91500113084678045H
+电话：023-61201651
+地址：重庆市九龙坡区兴胜路4号（清研理工创业谷）
+
+
+重庆颇闰科技有限公司     重庆市巴南区花溪镇建新村走马梁路121号   重庆颇闰科技有限公司    李建彬    13880225856
+重庆九龙坡区谢家湾保利花半里旁重庆理工大学（杨家坪校区）图书馆5楼
